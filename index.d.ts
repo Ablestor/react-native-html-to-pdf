@@ -12,7 +12,7 @@ type Options = {
   paddingTop?: number;
   paddingBottom?: number;
   padding?: number;
-  bgColor?: stringnumber;
+  bgColor?: string;
 
   // android
   fonts?: string[];
